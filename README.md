@@ -1,3 +1,5 @@
+![Screenshot 2023-07-25 032842](https://github.com/Churreesha/CFG-Coding-Challenge/assets/104545210/804cd71f-752f-4421-af6c-da27d31c009c)
+![Screenshot 2023-07-25 032842](https://github.com/Churreesha/CFG-Coding-Challenge/assets/104545210/aafbc957-bac3-4b50-9b28-d5db93b6b10b)
 # CFG-Coding-Challenge
 SOLVE A SERIES OF CODING CONUNDRUMS USING FLOWCHARTS AND PSEUDOCODE 
 
