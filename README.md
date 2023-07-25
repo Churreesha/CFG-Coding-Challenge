@@ -1,5 +1,6 @@
 # CFG-Coding-Challenge
 SOLVE A SERIES OF CODING CONUNDRUMS USING FLOWCHARTS AND PSEUDOCODE 
+
 The Challenge
 
 Each group will be presented with 5 coding problems. There will be 3 core problems and 2 additional problems. Students in teams will submit responses to 2 out of 5 questions for this challenge of their choosing. You can attempt more than 2 if time permits and will be getting additional points or doing so.
